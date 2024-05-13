@@ -4,7 +4,7 @@
 SkimLit is an NLP-based project which aims to make medical abstracts easier to read. Harnessing the power of machine learning and deep learning models with transfer learning, to break down the medical abstracts into sub-sections namely: Objective, Methods, Results, and Conclusion. This makes it easier for the user to read the medical abstracts.
 
 ## Dataset
-The dataset has been sourced from (https://github.com/Franck-Dernoncourt/pubmed-rct). The dataset has been pre-processed and created functions to add labels to our dataset, in order to classify the part of the abstract as Objective, Methods, Results or Conclusion.
+The dataset has been sourced from (https://github.com/Franck-Dernoncourt/pubmed-rct). From the repository, PubMed_20k_RCT_numbers_replaced_with_at_sign, is the dataset which has been used for this project. The dataset has been pre-processed and created functions to add labels to our dataset, in order to classify the part of the abstract as Objective, Methods, Results or Conclusion.
 
 ## Modelling Experiments
 Once the dataset has been pre-processed and class labels have been created, the dataset is fit to various models.
